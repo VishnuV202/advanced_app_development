@@ -1,0 +1,35 @@
+{
+  "UserData": [
+    {
+      "id": 1,
+      "uname": "Vishnu_326",
+      "email": "Vishnu2632004@gmail.com",
+      "password": "Vishnu_3000."
+    },
+    {
+      "uname": "Yogesh_326",
+      "email": "Yogesh326@gmail.com",
+      "password": "Yogesh326.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "uname": "Yashwanth_326",
+      "email": "yash326@gmail.com",
+      "password": "Yash326."
+    },
+    {
+      "id": 4,
+      "uname": "Siva",
+      "email": "123@gmail.com",
+      "password": "12345"
+    },
+    
+    {
+      "id": 5,
+      "uname": "hitler_1945",
+      "email": "hitler@gmail.com",
+      "password": "000"
+    }
+  ]
+}
